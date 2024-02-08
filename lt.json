@@ -106,6 +106,6 @@
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
 ],
 "lives":[
-{"name":"SAO0","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/merge.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://192.168.31.68:31000/api/diyp/?ch={name}&date={date}"},
+{"name":"SAO0","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/merge.txt","playerType":1,"epg":"http://192.168.31.68:31000/api/diyp/"},
 ]
 }
